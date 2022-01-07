@@ -1,6 +1,6 @@
-# Arduino on GitHub Actions
+# Arduino on GitHub Actions - ricaun
 
-[![Actions Status](https://github.com/arduino/arduino-cli-example/workflows/test/badge.svg)](https://github.com/arduino/arduino-cli-example/actions)
+[![Actions Status](https://github.com/ricaun/arduino-cli-example/workflows/test/badge.svg)](https://github.com/ricaun/arduino-cli-example/actions)
 
 This repo is the companion of a blog post on Arduino's engineering blog about
 using Arduino tools in GitHub workflows and it has no other purpose than
